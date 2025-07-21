@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navabhaarathi Asokan</h1>
-<h3 align="center">Computer vision enthusiast, Exploring into LLMs.</h3>
+<h3 align="center">AI Engineer</h3>
 
 - 📫 How to reach me **navabhaarathiasokan@gmail.com**
 
